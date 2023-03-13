@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @winston-92
-- 👀 I’m interested in bioinformatics, bayesian modelling, high dimensional data visualization, and forecasting
-- 🌱 I’m currently learning hierarchical bayesian variable selection and functional data analysis
-- 💞️ I’m looking to collaborate on any kind of project involving R or python coding
-- 📫 pwmiller@memphis.edu
+- 📫 winstonm92@gmail.com
